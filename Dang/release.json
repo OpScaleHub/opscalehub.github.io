@@ -1,12 +1,12 @@
 {
-  "version": "0.11.1",
-  "versionCode": 27,
+  "version": "0.12.0",
+  "versionCode": 28,
   "minSdk": 26,
-  "date": "2026-11-22",
-  "dateJalali": "1405/09/01",
-  "sizeBytes": 7835773,
-  "sha256": "ab690a35dad15aca423157d58a81648868ec968a06611dbab74d79e29ed4801c",
-  "apk": "https://github.com/OpScaleHub/Dang/releases/latest/download/dang.apk",
-  "apkPinned": "https://github.com/OpScaleHub/Dang/releases/download/v0.11.1/dang-0.11.1.apk",
-  "notes": "https://github.com/OpScaleHub/Dang/releases/tag/v0.11.1"
+  "date": "2026-11-24",
+  "dateJalali": "1405/09/03",
+  "sizeBytes": 7835937,
+  "sha256": "ae8243a5e75f547737a514a50a2ec44491eab52098d60dff9f28faf5f0b8126b",
+  "apk": "https://github.com/OpScaleHub/Banadad/releases/latest/download/banadad.apk",
+  "apkPinned": "https://github.com/OpScaleHub/Banadad/releases/download/v0.12.0/banadad-0.12.0.apk",
+  "notes": "https://github.com/OpScaleHub/Banadad/releases/tag/v0.12.0"
 }
